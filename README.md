@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mid1aner [Dota 2 reference] [Hrishkesh]
+- 👋 Hi, I’m @Mid1aner [Dota 2 reference] [Hrishikesh]
 - 👀 I’m interested in [Meaningful things]
 - 🌱 I’m currently learning [Full Stack Development]
 - 💞️ I’m looking to collaborate on [Web Development]
