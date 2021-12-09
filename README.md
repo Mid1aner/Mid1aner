@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Mid1aner [Dota 2 reference] [Hrishikesh]
-- 👀 I’m interested in [Meaningful things]
+- 👋 Hi, I’m @Hrishikesh Nikam [Hrishi]
+- 👀 I’m interested in creating beautiful things on internet. [Meaningful things]
 - 🌱 I’m currently learning [Full Stack Development]
 - 💞️ I’m looking to collaborate on [Web Development]
 - 📫 How to reach me [nikamhrishikesh515@gmail.com]
